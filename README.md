@@ -1,6 +1,5 @@
 # infra-automation-scripts
 
-# Infra Automation Scripts
 
 Small Python scripts I built while preparing for a Systems / DevSecOps internship.
 
